@@ -6,7 +6,7 @@ package console
 import (
 	"os"
 
-	"github.com/microsoft/go-sqlcmd/pkg/sqlcmd"
+	"github.com/amoniacou/go-sqlcmd/pkg/sqlcmd"
 	"github.com/peterh/liner"
 )
 

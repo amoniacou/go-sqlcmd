@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/alecthomas/kong"
-	"github.com/microsoft/go-sqlcmd/pkg/sqlcmd"
+	"github.com/amoniacou/go-sqlcmd/pkg/sqlcmd"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -8,9 +8,9 @@ import (
 	"os"
 
 	"github.com/alecthomas/kong"
+	"github.com/amoniacou/go-sqlcmd/pkg/console"
+	"github.com/amoniacou/go-sqlcmd/pkg/sqlcmd"
 	"github.com/denisenkom/go-mssqldb/azuread"
-	"github.com/microsoft/go-sqlcmd/pkg/console"
-	"github.com/microsoft/go-sqlcmd/pkg/sqlcmd"
 )
 
 // SQLCmdArguments defines the command line arguments for sqlcmd
